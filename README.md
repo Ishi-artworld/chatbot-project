@@ -1,10 +1,10 @@
 # chatbot-project
-Chatbot Project 🤖
-📌 Overview
+Chatbot Project 
+ Overview
 
 This project is a simple AI-powered Chatbot built using Python. It is designed to simulate human-like conversations and provide quick, automated responses to user queries. The chatbot can be customized for different use cases such as customer support, FAQs, personal assistant, or educational purposes.
 
-🚀 Features
+ Features
 
 Interactive conversation with users
 
@@ -16,7 +16,7 @@ Lightweight and beginner-friendly
 
 Can be integrated with web apps or messaging platforms
 
-🛠️ Technologies Used
+ Technologies Used
 
 Python (Core language)
 
@@ -26,7 +26,7 @@ Flask / Django (Optional) – to deploy chatbot on web
 
 SQLite / JSON / CSV – for storing training data
 
-📂 Project Structure
+ Project Structure
 Chatbot-Project/
 │── data/               # Training data or intents file
 │── chatbot.py          # Main chatbot script
@@ -35,7 +35,7 @@ Chatbot-Project/
 │── requirements.txt    # Python dependencies
 │── README.md           # Project documentation
 
-⚙️ Installation & Setup
+ Installation & Setup
 
 Clone this repository:
 
@@ -64,7 +64,7 @@ python chatbot.py
 
 python app.py
 
-💡 Usage
+ Usage
 
 Start the chatbot and type your query in the console or web interface.
 
@@ -72,7 +72,7 @@ The bot will reply with the most appropriate response.
 
 Can be customized by editing the intents.json or training dataset.
 
-📈 Future Enhancements
+#Future Enhancements
 
 Add voice-based interaction
 
@@ -82,10 +82,10 @@ Improve accuracy using Deep Learning models
 
 Deploy on cloud platforms (Heroku, AWS, etc.)
 
-🤝 Contributing
+ #Contributing
 
 Contributions are welcome! Feel free to fork this repository, open issues, and submit pull requests.
 
-📜 License
+# License
 
 This project is licensed under the MIT License – free to use and modify.
